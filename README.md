@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey there 👋
+``` yaml
+name: Arthur Faccio
+education: 
+[
+    "Self-Taught Developer",
+    "Bachelor's in Physics",
+]
+interests: 
+[
+    "Cybersec",
+    "Video Games",
+    "Backend Development",    
+    "Miniatures/Collectables",
+]
+techincal_background:
+[
+    "Pentester",
+    "QA Analyst",    
+    "Software Engineer",
+]
+```
 
-<!--
-**ArthurFcc/ArthurFcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun facts
+- I use Arch, btw
+- I love Lord of The Rings (watched 13 times, btw)
