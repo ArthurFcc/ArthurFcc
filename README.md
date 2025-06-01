@@ -13,7 +13,7 @@ interests:
     "Backend Development",    
     "Miniatures/Collectables",
 ]
-techincal_background:
+technical_background:
 [
     "Pentester",
     "QA Analyst",    
