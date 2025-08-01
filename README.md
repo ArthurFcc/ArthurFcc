@@ -23,4 +23,4 @@ technical_background:
 
 ### Fun facts
 - I use Arch, btw
-- I love Lord of The Rings (watched 13 times, btw)
+- I love Lord of The Rings
