@@ -21,7 +21,3 @@ technical_background:
     "Software Engineer",
 ]
 ```
-
-### Fun facts
-- I use Arch, btw
-- I love Lord of The Rings
