@@ -12,6 +12,7 @@ interests:
     "Video Games",
     "Backend Development",    
     "Miniatures/Collectables",
+    "Languages",
 ]
 technical_background:
 [
